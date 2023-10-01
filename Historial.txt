@@ -1,0 +1,26 @@
+0x68620ACB2AaEae31FD0F674ff0aBE091281f47A7
+c:/ 
+
+mkdir gpt
+cd gpt
+git clone https://github.com/AntonOsika/gpt-engineer.git
+requirements.txt
+
+
+--------------------------------------------------------
+
+https://isotropic.co/react-multiple-pages/
+https://reactrouter.com/en/main
+https://www.npmjs.com/package/react-router-dom
+https://pixabay.com/es/illustrations/falla-glitch-art-distorsi%C3%B3n-2463363/
+https://scaffoldeth.io/
+https://www.peakpx.com/es/hd-wallpaper-desktop-kkzow
+https://www.peakpx.com/es/hd-wallpaper-desktop-kgaec/download/1920x1080
+https://github.com/gh0stzk/dotfiles/blob/master/INICIO.md
+https://www.peakpx.com/es/hd-wallpaper-desktop-vyten
+https://ethereum.org/en/assets/
+https://hardhat.org/hardhat-runner/docs/getting-started
+https://github.com/facebook/react/issues/16225
+https://github.com/gh0stzk/dotfiles/blob/master/INICIO.md
+https://reactrouter.com/en/main/fetch/redirect
+https://wagmi.sh/
